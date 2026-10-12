@@ -19,4 +19,7 @@ hobbies
 contact
 
 eap96963@email.vccs.edu
+
 571-368-1474
+
+![Profile Picture](IMG_8868.jpeg)
